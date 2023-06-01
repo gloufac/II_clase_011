@@ -1,0 +1,16 @@
+  519  cd Examen-Lopez-Gloria/
+  520  add .
+  521  ls
+  522  git init
+  523  git add .
+  528  git commit -m "Commit 1 de Gloria Lopez"
+  529  git remote add origin https://github.com/gloufac/Examen-Intro-C2-3105.git
+  530  git remote -v
+  531  git status
+  532  git push origin main
+  533  git remote show origin
+  534* 
+  535  git branch
+  536  git checkout hotfix
+  537  history 20
+  538  history 20 > Comandos\ Utilizados/command.txt 
