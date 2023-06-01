@@ -1,0 +1,30 @@
+  511  mkdir Actividades Actividades/"Deportes de equipo"/ Actividades/"Deportes acuaticos" Actividades/"Deportes extremos" Actividades/"Deportes de mesa" Actividades/"Deportes mentales"
+  513  touch Actividades/Deportes\ de\ equipo/Basquet Actividades/Deportes\ de\ mesa/Ajedrez.txt Actividades/Deportes\ de\ mesa/"Ping pong"
+  514  ls -R
+  515  rm -r Actividades/Deportes\ extremos/
+  516  pwd
+  517  git init
+  518  git remote add origin https://github.com/gloufac/II_clase_011.git
+  519  git remote add origin https://github.com/gloufac/IntroInformatica.git
+  520  git remote rm  https://github.com/gloufac/II_clase_011.git
+  521  git remote set -url origin https://github.com/gloufac/IntroInformatica.git
+  522  git remote set -url origin https://github.com/gloufac/IntroInformatica
+  523  git remote set-url origin https://github.com/gloufac/IntroInformatica
+  524  git remote -v
+  525  git status
+  526  git branch
+  527  git add .
+  528  git commit -m "Mi primer commit"
+  529  git push origin main
+  530  git add .
+  531  git commit -m "Mi primer commit"
+  532  git push origin main
+  533  history 20
+  534  history 50
+  535  git 30
+  536  clear
+  537  git 30
+  538  clear
+  539  git history 30
+  540  history 30
+  541  history 31 > commands.txt
